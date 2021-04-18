@@ -6,13 +6,14 @@ veritabanlarına bağlanması için gerekli kodlamalar yapılmıştır. ORM olar
 için bir veritabanı değişikliğine kolay adapte olabilecek niteliktedir. Business katmanında gerekli iş kodları yazılmıştır. Web api katmanına ise api tarafı kodlanmıştır
 
 # Kullanılan Teknolojiler
-.Net Core 3.1
-MSSQL
-Autofac
-Entity Framework
-JWT
-Wep Api
-Katmanlı Mimari
-OOP
-AOP
-Fluent Validation
+
+* .Net Core 3.1
+* MSSQL
+* Autofac
+* Entity Framework
+* JWT
+* Wep Api
+* Katmanlı Mimari
+* OOP
+* AOP
+* Fluent Validation
